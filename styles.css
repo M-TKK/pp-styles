@@ -2,6 +2,6 @@
     width: 50%!important;
 }
 
-.package-details p{
-    margin: 0!important;
+.uagb-column__inner-wrap > p{
+    margin-bottom: 0.5em!important;
 }
