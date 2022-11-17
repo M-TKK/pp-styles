@@ -7,15 +7,7 @@
     width: 100%!important;
 }
 
-.caption-wrap {
+* .caption-wrap {
   position: relative!important;
-  bottom: 0;
-  left: 0;
-  background: black;
-  color: white;
-  opacity: 0.7;
-  margin: 0;
-  display: block;
-  width: 100%;
-  line-height: 1.4em;
+  backgriound: #fff!important;
 }
