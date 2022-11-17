@@ -2,6 +2,6 @@
     background-color: #e84f4f!important;
 }
 
-.big-cover{
-    max-width: 1400px!important;
+.wp-block-cover{
+    width: 1500px!important;
 }
