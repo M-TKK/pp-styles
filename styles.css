@@ -1,3 +1,7 @@
 .bwrm-p{
     width: 50%!important;
 }
+
+.package-details p{
+    margin: 0!important;
+}
