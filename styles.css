@@ -7,4 +7,6 @@
     width: 100%!important;
 }
 
-
+.metaslider .caption-wrap{
+    position: relative!important;
+}
