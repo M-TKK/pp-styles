@@ -1,13 +1,3 @@
-.big{
-    background-color: #e84f4f!important;
-}
-
-.big-cover{
-    max-width: 1500px!important;
-    width: 100%!important;
-}
-
-* .caption-wrap {
-  position: relative!important;
-  backgriound: #fff!important;
+.bwrm-p{
+    width: 80%;
 }
